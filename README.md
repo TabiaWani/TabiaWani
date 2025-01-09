@@ -1,4 +1,4 @@
-# Tabiya Wani
+# Tabia Wani
 
 Welcome to my GitHub profile! 👋
 
