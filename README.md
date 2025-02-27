@@ -6,7 +6,7 @@ I am a Computer Science student with a strong focus on **Artificial Intelligence
 
 ## 🔧 Technologies & Skills
 
-- **Programming Languages**: Python, Java, C++
+- **Programming Languages**: Python, Java, C++, C#, C.
 - **AI & ML**: TensorFlow, Keras, Scikit-learn, OpenCV
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
 - **Web Development**: HTML, CSS, JavaScript
