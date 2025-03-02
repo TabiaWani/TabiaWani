@@ -2,7 +2,16 @@
 
 Welcome to my GitHub profile! 👋
 
-I am a Computer Science student with a strong focus on **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Data Science**, and **Software Engineering**. My goal is to explore and contribute to projects that use technology to solve real-world problems.
+<div align="center">
+  <h2>👋 Hi, I'm <b>Tabia Wani</b>!</h2>
+  <p>
+    🚀 Passionate about <b>Artificial Intelligence (AI), Machine Learning (ML), Data Science, and Software Engineering</b>.<br>
+    💻 Skilled as a <b>Front-End Developer</b> and experienced in <b>Python Coding</b>.<br>
+    🎯 Dedicated <b>Python Tutor</b>, helping others learn and grow in coding.<br>
+    💡 Always exploring new technologies and open to collaborations in AI & development!
+  </p>
+</div>
+
 
 ## 🚀 Skills & Technologies  
 
