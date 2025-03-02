@@ -14,9 +14,11 @@ I am a Computer Science student with a strong focus on **Artificial Intelligence
 
 Feel free to explore my repositories and open issues or pull requests if you'd like to contribute or collaborate.
 
-![TabiaWani's Stats](https://github-readme-stats.vercel.app/api?username=TabiaWani&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+### 🔥 Streak Stats  
+![TabiaWani's GitHub Streak](https://streak-stats.demolab.com/?user=TabiaWani&theme=dark&hide_border=true)  
 
-![TabiaWani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TabiaWani&theme=vue-dark&hide_border=true)
+### 📊 GitHub Stats  
+![TabiaWani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TabiaWani&show_icons=true&theme=radical)
 
 
 ![TabiaWani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TabiaWani&layout=compact&theme=radical)
@@ -24,10 +26,6 @@ Feel free to explore my repositories and open issues or pull requests if you'd l
 ### 🚀 GitHub Activity  
 ![TabiaWani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TabiaWani&theme=github-dark)  
 
-### 🔥 Streak Stats  
-![TabiaWani's GitHub Streak](https://streak-stats.demolab.com/?user=TabiaWani&theme=dark&hide_border=true)  
 
-### 📊 GitHub Stats  
-![TabiaWani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TabiaWani&show_icons=true&theme=radical)
 
 
