@@ -1,4 +1,4 @@
-# Tabia Wani
+
 
 <h1 align="center">Hi there, I'm Tabia Wani! 👋</h1>
 <p align="center">
