@@ -1,8 +1,10 @@
 # Tabia Wani
 
-Welcome to my GitHub profile! 👋
+<h1 align="center">Hi there, I'm Tabia Wani! 👋</h1>
+<p align="center">
+  <a href="https://github.com/TabiaWani"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Front+End+Developer;Python+Coding+Tutor+and+Trainer;Web+Developer;AI+and+ML+Explorer" alt="Typing SVG" /></a>
+</p>
 
-I am a Computer Science student with a strong focus on **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Data Science**, and **Software Engineering**. My goal is to explore and contribute to projects that use technology to solve real-world problems.
 
 ## 🚀 Skills & Technologies  
 
