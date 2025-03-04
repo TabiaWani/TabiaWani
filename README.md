@@ -42,7 +42,10 @@
 Feel free to explore my repositories and open issues or pull requests if you'd like to contribute or collaborate.
 
 ### 🔥 Streak Stats  
-![TabiaWani's GitHub Streak](https://streak-stats.demolab.com/?user=TabiaWani&theme=dark&hide_border=true)  
+[![Tabia Wani's GitHub Streak](https://streak-stats.demolab.com/?user=TabiaWani&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+ 
 
 ### 📊 GitHub Stats  
 ![TabiaWani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TabiaWani&show_icons=true&theme=radical)
